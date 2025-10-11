@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-kushwah&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-kushwah" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shivam-kushwah](https://github.com/Shivam-kushwah)
+- 👨‍💻 All of my projects are available at [https://github.com/Manjeet94565](https://github.com/Manjeet94565)
 
 - 📫 How to reach me **manjeetvarun001@gmail.com**
 
