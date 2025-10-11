@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Shivam Kushwah</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h1 align="center">Hi 👋, Manjeet varun</h1>
+<h3 align="center">A passionate fullstack developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-kushwah&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-kushwah" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shivam-kushwah](https://github.com/Shivam-kushwah)
 
-- 📫 How to reach me **rudrashiva2731@gmail.com**
+- 📫 How to reach me **manjeetvarun001@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
