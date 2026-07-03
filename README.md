@@ -70,7 +70,7 @@ My mission is simple:
 # 🛠 Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,html,css,angular,nodejs,express,flask,django,mysql&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,html,css,angular,nodejs,express,flaskmysql&theme=dark"/>
 </p>
 
 ---
